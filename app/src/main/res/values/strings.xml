@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="button_equal_text">=</string>
+    <string name="button_dot_text">.</string>
+    <string name="button_zero_text">0</string>
+    <string name="button_sign_text">+/-</string>
+    <string name="button_one_text">1</string>
+    <string name="button_two_text">2</string>
+    <string name="button_three_text">3</string>
+    <string name="button_plus_text">+</string>
+    <string name="button_six_text">6</string>
+    <string name="button_five_text">5</string>
+    <string name="button_four_text">4</string>
+    <string name="button_minus_text">-</string>
+    <string name="button_multiplication_text">×</string>
+    <string name="button_nine_text">9</string>
+    <string name="button_eight_text">8</string>
+    <string name="button_seven_text">7</string>
+    <string name="button_division_text">÷</string>
+    <string name="button_percent_text">%</string>
+    <string name="button_parenthesis_text">()</string>
+    <string name="button_clear_text">C</string>
+    <string name="redo_arrow_desc">Redo arrow</string>
+    <string name="button_square_root_text">√</string>
+    <string name="button_factorial_text">!</string>
+    <string name="button_power_of_two_text">2^x</string>
+    <string name="button_sin_text">sin</string>
+    <string name="button_cos_text">cos</string>
+    <string name="button_tan_text">tan</string>
+    <string name="button_ln_text">ln</string>
+    <string name="button_log_text">log</string>
+    <string name="button_minus_power_text">1/x</string>
+    <string name="button_exponent_power_text">e^x</string>
+    <string name="button_second_power_text">x^2</string>
+    <string name="button_power_text">x^y</string>
+    <string name="button_absolute_text">|x|</string>
+    <string name="button_pi_text">π</string>
+    <string name="button_exponent_text">e</string>
+</resources>
